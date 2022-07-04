@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    /* font-family: 'Times New Roman', Times, serif; */
+
+}
+.card{
+    height: 200px;
+    width: 250px;
+    /* justify-content: center; */
+    background: #00071a;
+    color: #fff;
+    border-radius: 15px;
+    margin-left: 550px;
+    
+}
+.card  li{
+    list-style-type:square;
+    margin-left: 0;
+}
